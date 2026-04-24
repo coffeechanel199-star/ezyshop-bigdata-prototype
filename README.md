@@ -77,13 +77,6 @@ jupyter notebook ezyshop_bigdata_prototype.ipynb
 | Layer 5 — Dashboard | 6-panel analytics dashboard rendered and saved |
 | Layer 6 — Test Log | 15/15 tests passed |
 
----
-
-## Architecture Diagram
-
-![EzyShop MALA Architecture](ezyshop_mala_architecture.png)
-
----
 
 ## Key Design Decisions
 
