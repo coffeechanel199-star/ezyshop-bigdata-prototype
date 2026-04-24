@@ -82,7 +82,7 @@ jupyter notebook ezyshop_bigdata_prototype.ipynb
 
 - **Lambda over Kappa Architecture** — EzyShop requires both historical accuracy 
   and real-time response simultaneously. Kappa architecture processes all data as 
-  streams, making historical reprocessing costly and complex (Kreps, 2014).
+  streams, making historical reprocessing costly and complex .
 
 - **Apache Kafka for Ingestion** — Designed for high-throughput data transmission 
   with partition-based parallelism supporting 10,000+ TPS. Kafka's pub-sub model 
