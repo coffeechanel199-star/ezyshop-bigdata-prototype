@@ -36,17 +36,6 @@ This prototype implements a **Multi-Agent Lambda Architecture (MALA)** that comb
 
 ---
 
-## Repository Structure
-
-zyshop-bigdata-prototype/
-│
-├── ezyshop_bigdata_prototype.ipynb   # Main prototype notebook (Google Colab)
-├── ezyshop_mala_architecture.png     # Architecture diagram
-├── Assessment3_Documentation.docx   # Full prototype documentation
-└── README.md                        # This file
-
----
-
 ## How to Run
 
 ### Option 1 — Google Colab (Recommended)
